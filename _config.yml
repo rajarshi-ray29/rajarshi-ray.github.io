@@ -22,7 +22,7 @@ repository               : "rajarshi-ray29/rajarshi-ray.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile-pic.jpeg"
+  avatar           : # "Profile-pic.jpeg"
   name             : "Rajarshi Ray"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student in Computer Science passionate about AI, software development, and real-world innovation."
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "in/rajarshi-ray-98477a204/" # Username
+  linkedin         : "rajarshi-ray-98477a204/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
